@@ -1,3 +1,5 @@
+// Stock Market Portfolio App
+
 const express = require('express');
 const { engine } = require('express-handlebars');
 const app = express();
